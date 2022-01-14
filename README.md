@@ -1,2 +1,2 @@
 # Working-with-images
-Repository to helpp extracting Keyframes and Applying model
+Repository to help extracting Keyframes and Applying model
